@@ -1,0 +1,62 @@
+.first-section{width: 100%; 
+    
+    display: flex;
+    margin: 0%;}
+    .first-section h1{ font-size: 50px;}
+.top-photo img{ width: 400px;}
+.tagline{ color: blue;}
+.border{ border-left: 10px solid blueviolet;
+margin: 0%;}
+.link-button{ text-decoration: none;
+    border-radius: 10px;
+    background-color: fuchsia;
+    color: white;
+    padding: 10px 30px;}
+
+
+
+
+.text-center { font-size: 50px; text-align: center; margin-top: 40px;}
+span{color: blue;}
+.all-mission{ display: flex; padding: 20px;}
+.first-mission{ text-align: center; margin: 10px; width: 700px; height: 400px; background-color: rgb(214, 208, 203); border-radius: 20px;}
+.second-mission{ text-align: center; margin: 10px; width: 700px; height: 400px; background-color: rgb(194, 175, 161); border-radius: 20px;}
+.third-mission{ text-align: center; margin: 10px; width: 700px; height: 400px; background-color: rgb(255, 210, 179); border-radius: 20px;}
+
+
+
+
+
+.third-section{width: 100%; 
+    font-size: 30px;
+    display: flex;
+padding-top: 40px;}
+.third-image img{ width: 80%;}
+.text-third-section{  padding-left: 20px;}
+
+
+
+
+
+.fourth-section{ padding-top: 100px;}
+
+
+
+
+
+
+
+
+.personal{ padding: 50px; margin-top: 50px; color: rgb(77, 10, 145); display:flex }
+.personal div img{ width: 60%;}
+address{ font-size: 30px;}
+.all-personal{ display: flex;  margin: 20px; padding: 20px;}
+
+
+
+
+
+
+footer{ text-align:center; background-color: rgb(252, 16, 107);}
+span.alphabet{ color: rgb(39, 236, 217);}
+span.letter{ color: rgb(174, 248, 190);}
